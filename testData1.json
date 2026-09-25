@@ -1,1 +1,27 @@
-
+{
+  "configVersion": 1,
+  "isABTestRandom": false,
+  "isRemotePhoto": false,
+  "isWaiting24": true,
+  "videoLoaded": false,
+  "canGotPremiumForDailyLogin": false,
+  "shouldSwitchMoods": false,
+  "needRequestReview": false,
+  "isYearSubActive": true,
+  "isForceReset": true,
+  "messagesDailyCount": 2,
+  "messagesFirstOpenCount": 3,
+  "mainPhotoPath": "https://raw.githubusercontent.com/uvarovn771-blip/",
+  "secondPhotoPath": "https://raw.githubusercontent.com/npanezai9-ux/",
+  "blondsVidCount": 94,
+  "BrunetsVidCount": 99,
+  "someHalfSafeKey": "Y6YN7FPZlWl7W7uJc",
+  "userPromptMain": "",
+  "myMessageToUsers": "",
+  "testPicks": "",
+  "testPicksAnime": "",
+  "baseServer": "https://gemini-proxy-service-138319918962.us-central1.run.app/api/gemini-proxy",
+  "testClipsCount": 35,
+  "testClips": "",
+  "secondUserPrompt": ""
+}
